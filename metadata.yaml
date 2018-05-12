@@ -1,0 +1,36 @@
+_repo: Spencer-s-LettersChurch-of-Jesus-Christ-of-Latter-Day-Saints_45846
+_version: 0.1.0
+alternative_title: Spencer's Letters
+contributor:
+  contributor:
+    agent_name: Crowel, William
+    alias: Crowell, William
+    gutenberg_agent_id: '43439'
+    url: http://www.gutenberg.org/2009/agents/43439
+covers:
+- cover_type: archival
+  image_path: 45846-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spencer, Orson
+    birthdate: 1802
+    deathdate: 1855
+    gutenberg_agent_id: '43488'
+    url: http://www.gutenberg.org/2009/agents/43488
+description: ''
+gutenberg_issued: '2014-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45846'
+  lccn: unk82055230
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+title: Letters Exhibiting the Most Prominent Doctrines of the Church of Jesus Christ
+  of Latter-Day Saints
+url: http://www.gutenberg.org/ebooks/45846
